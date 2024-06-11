@@ -1,9 +1,8 @@
 - 👋 Sou Eduardo Evaristo!
-- 📚 Faço faculdade e estudo desenvolvimento front-end!
-- 🌱 Atualmente estudo JavaScript, PHP e banco de dados!
-- ⚡ Aqui compartilho pedaços de meu aprendizado e projetos!
+- 📚 Estudo desenvolvimento web, focado em full-stack!
+- 🌱 Atualmente estudo JavaScript,React e PHP!
 - 🗣️ Falo português e inglês (C1)!
-- 👍 Utilizo HTML, CSS, JavaScript e PHP!
+- 👍 Utilizo HTML, CSS (SASS), JavaScript e PHP!
 
 <!---
 eduardo-evaristo/eduardo-evaristo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
